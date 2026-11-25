@@ -1,5 +1,5 @@
 # 1995 - M926 - M926 - M926 - SCHEMATIC (ORCAD).dsn
-Wiki page: [M926](../../../PAGES/M926.md)
+Wiki page: [M926](../../../../PAGES/M926.md)
 
 
 - **Year:** 1995 (found in this file: "March 8, 1995")
@@ -269,7 +269,7 @@ ExportBlocks Directory
 
 ```json
 {
- "file": "Modules/UNSORTED/M926/1995 - M926 - M926 - M926 - SCHEMATIC (ORCAD).dsn",
+ "file": "Modules/UNSORTED/M926/SCHEMATICS/1995 - M926 - M926 - M926 - SCHEMATIC (ORCAD).dsn",
  "sha256": "753c3e4c9c6e67625de316d59f365dd2d914c3508eedc65c20ee7a5f5368a119",
  "kind": "module",
  "models": [

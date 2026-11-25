@@ -1,5 +1,5 @@
 # 1994 - M926 - 926-02-999 - FN5 '5TH PART FIELD' - DOCUMENT.docx
-Wiki page: [M926](../../../PAGES/M926.md)
+Wiki page: [M926](../../../../PAGES/M926.md)
 
 
 - **Year:** 1994 (module estimate (month))
@@ -161,7 +161,7 @@ ERC    = '           W   WW'
 
 ```json
 {
- "file": "Modules/UNSORTED/M926/1994 - M926 - 926-02-999 - FN5 '5TH PART FIELD' - DOCUMENT.docx",
+ "file": "Modules/UNSORTED/M926/SCHEMATICS/1994 - M926 - 926-02-999 - FN5 '5TH PART FIELD' - DOCUMENT.docx",
  "sha256": "a6197c26f636ccf99732d48095ea26dcf48ef29313a68bdee54288ab2394c665",
  "kind": "module",
  "models": [
