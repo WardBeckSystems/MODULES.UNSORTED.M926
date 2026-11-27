@@ -5,7 +5,7 @@ Ward-Beck Systems M926, 1994|27. Wiki page: [M926 on WBSps.ca](https://wardbecks
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 3 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
