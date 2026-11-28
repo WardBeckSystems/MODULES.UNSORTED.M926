@@ -1,6 +1,6 @@
 # M926 · Renaissance
 
-Ward-Beck Systems M926, 1994|27. Wiki page: [M926 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M926.html)
+Ward-Beck Systems M926, 1994|27. Wiki page: [M926 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M926/)
 
 | Folder | What is in it | Files |
 |---|---|---|

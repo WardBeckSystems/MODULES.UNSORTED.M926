@@ -1,5 +1,5 @@
 # 1994 - M926 - 926-02-999 - FN5 '5TH PART FIELD' - DOCUMENT.docx
-Wiki page: [M926](../../../../PAGES/M926.md)
+Wiki page: [M926](../)
 
 
 - **Year:** 1994 (module estimate (month))
