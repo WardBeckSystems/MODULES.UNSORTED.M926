@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M926",
- "repo": "MODULES.UNSORTED.M926",
+ "repo": "MODULES.RENAISSANCE.M926",
  "title": "M926",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",

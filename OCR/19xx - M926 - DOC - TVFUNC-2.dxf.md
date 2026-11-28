@@ -294,7 +294,7 @@ RENAISSANCE MKIII
 
 ```json
 {
- "file": "Modules/UNSORTED/M926/SCHEMATICS/19xx - M926 - DOC - TVFUNC-2.dxf",
+ "file": "Modules/RENAISSANCE/M926/SCHEMATICS/19xx - M926 - DOC - TVFUNC-2.dxf",
  "sha256": "c0240a464ed2bb5c3759abe0c3bee27ff6d9cd6a0e25c3a2764f6d459e563e37",
  "kind": "doc",
  "models": [
